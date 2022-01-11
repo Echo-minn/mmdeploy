@@ -1,10 +1,21 @@
 <div align="center">
   <img src="resources/mmdeploy-logo.png" width="450"/>
   <div align="center">
-    <span><font size="5">OpenMMLab 官网</font></span><a herf="https://openmmlab.com"><sup><font size="4">HOT</font></sup></a>
+    <span><font size="5">OpenMMLab 官网</font></span>
+    <sup>
+      <a herf="https://openmmlab.com">
+        <i><font size="4">HOT</font></i>
+      </a>
+    </sup>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <span><font size="5">OpenMMLab 开放平台</font></span><a href="https://platform.openmmlab.com"><sup><font size="4">TRY IT OUT</></sup></a>
+    <span><font size="5">OpenMMLab 开放平台</font></span>
+    <sup>
+      <a href="https://platform.openmmlab.com">
+        <i><font size="4">TRY IT OUT</font></i>
+      </a>
+    </sup>
   </div>
+  <text>&nbsp;</text>
 </div>
 
 [![docs](https://img.shields.io/badge/docs-latest-blue)](https://mmdeploy.readthedocs.io/en/latest/)
