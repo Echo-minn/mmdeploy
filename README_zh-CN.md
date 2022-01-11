@@ -1,9 +1,10 @@
 <div align="center">
   <img src="resources/mmdeploy-logo.png" width="450"/>
+  <text>&nbsp;</text>
   <div align="center">
     <span><font size="5">OpenMMLab 官网</font></span>
     <sup>
-      <a herf="https://openmmlab.com">
+      <a href="https://openmmlab.com">
         <i><font size="4">HOT</font></i>
       </a>
     </sup>
